@@ -16,4 +16,5 @@ public class WeatherAppApplication {
     public ModelMapper modelMapper() {
         return new ModelMapper();
     }
+
 }
